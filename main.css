@@ -1,0 +1,27 @@
+.pagewrap {
+    max-width: 75rem;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.response {
+    display: table;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+}
+
+.response p {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.error {
+    background-color: red;
+}
+
+.success {
+    background-color: green;
+}
